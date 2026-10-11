@@ -9,6 +9,7 @@ Open to senior full-stack or AI product engineering roles (remote) · [CV](https
 7+ years building product · 5 years at Blackboard Anthology on a learning platform serving 100M+ users in 70 countries · 50+ end-to-end projects
 
 **Stack:** React · Vue · Node.js · TypeScript · Java · Python · Ruby on Rails · REST APIs · AWS · CI/CD
+
 **AI:** Generative AI · LLM integration (Claude, OpenAI GPT) · prompt engineering · agentic development with Claude Code
 
 ## Featured work
